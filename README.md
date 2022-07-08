@@ -1,2 +1,2 @@
 # ProjectPizzaria
-"CRUD" API with lib Tkinter and pymysql
+"CRUD" in Python API with lib Tkinter and pymysql
